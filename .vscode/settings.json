@@ -1,41 +1,20 @@
 {
-  // 👇 Tamanho da indentação
   "editor.tabSize": 2,
-
-  // 👇 Quebra de linha automática
   "editor.wordWrap": "on",
-
-  // 👇 Formata o código automaticamente ao salvar
   "editor.formatOnSave": true,
-
-  // 👇 Salvamento automático (depois de 800ms)
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 800,
-
-  // 👇 Tema escuro e ícones de pastas modernas
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.iconTheme": "material-icon-theme",
-
-  // 👇 Desativa o mini mapa lateral (menos poluição visual)
   "editor.minimap.enabled": false,
-
-  // 👇 Porta padrão do Live Server (ou Live Preview)
   "liveServer.settings.port": 5500,
-
-  // 👇 Mostra número das linhas
   "editor.lineNumbers": "on",
-
-  // 👇 Mostra espaços e quebras de linha
   "editor.renderWhitespace": "boundary",
-
-  // 👇 Suaviza o cursor e a digitação
   "editor.cursorSmoothCaretAnimation": "on",
-
-  // 👇 Fecha automaticamente aspas e chaves
   "editor.autoClosingBrackets": "always",
   "editor.autoClosingQuotes": "always",
-
-  // 👇 Define UTF-8 como padrão
-  "files.encoding": "utf8"
+  "files.encoding": "utf8",
+  "window.zoomLevel": 0,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.cursorBlinking": true
 }
-
