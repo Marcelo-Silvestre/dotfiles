@@ -1,1 +1,14 @@
+{
+  "recommendations": [
+    "ms-vscode.live-server",
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "formulahendry.code-runner",
+    "dbaeumer.vscode-eslint",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight"
+  ]
+}
 
